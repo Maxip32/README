@@ -1,10 +1,27 @@
 Maximiliano-Piolatto
 
-About
 
 Hola! Muchas gracias por tomarte tu tiempo, aqui hay un poco sobre mi...
 
 Soy un joven muy activo e interesado en todo el mundo de la programacion, con mucha capacidad de aprendizaje y una inquietud por querer aprender siempre algo nuevo, para mejorar en todos aspectos tanto personal, como para trabajar en un equipo.
+
+Mis Skills :
+
+ ♦   Javascript
+ ♦   React
+ ♦   Redux
+ ♦   CSS
+ ♦   Firebase
+ ♦   PostgresSQL
+
+ Soft skills :
+
+ ♦   Trabajo en equipo
+ ♦   Resolucion de conflictos
+ ♦   Capacidad de adaptacion
+ ♦   Aprendisaje continuo
+   
+
 
 Actualmente soy egresado de Henry, donde complete satisfactoriamente el bootcamp de Full Stack Developer. Donde aprendí muchas cosas interesantes que me ayudaron a resolver conflictos y a trabajar en equipo tambien tuve la posibilidad de ser parte de Henry como Ta (Teaching Assistant).
 
